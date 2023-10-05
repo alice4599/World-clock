@@ -5,3 +5,10 @@ h1 {
 footer {
   text-align: center;
 }
+small {
+  color: blue;
+}
+select {
+  display: block;
+  justify-content: center;
+}
