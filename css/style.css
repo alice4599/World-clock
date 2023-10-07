@@ -59,9 +59,12 @@ h2 {
   margin: 0 0 20px 0;
   opacity: 70%;
 }
+a {
+  color: white;
+}
+.sourceCode {
+  color: blue;
+}
 footer {
   text-align: center;
-}
-small {
-  color: blue;
 }
