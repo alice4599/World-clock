@@ -8,18 +8,22 @@ body {
   border-radius: 40px;
   color: white;
   font-family: poppins;
-  max-width: 600px;
+  max-width: 500px;
   margin: 0 auto;
   padding: 15px;
+  text-shadow: 1px 1px 2px #6260a7;
 }
+
 h1 {
   text-align: center;
   margin: 0 0 20px 0;
 }
+
 select {
   border-radius: 10px;
   display: block;
   font-size: 15px;
+  font-weight: bold;
   margin: 0 0 15px 0;
   opacity: 60%;
   padding: 8px;
